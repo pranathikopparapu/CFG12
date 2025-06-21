@@ -1,0 +1,92 @@
+[
+  {
+    "concern": "underweight",
+    "stage": "0–6 months",
+    "questions": [
+      "Is the child being breastfed regularly?",
+      "Has the child gained weight in the past 2 weeks?",
+      "Are complementary foods being introduced?"
+    ]
+  },
+  {
+    "concern": "anemia",
+    "stage": "Pregnant",
+    "questions": [
+      "Is the mother taking iron tablets daily?",
+      "Does the mother feel dizzy or weak?",
+      "Is she eating iron-rich foods?"
+    ]
+  },
+  {
+    "concern": "low birth weight",
+    "stage": "Newborn (0–28 days)",
+    "questions": [
+      "Was the child born with a weight less than 2.5 kg?",
+      "Is the baby wrapped and kept warm most of the time?",
+      "Is exclusive breastfeeding being practiced?"
+    ]
+  },
+  {
+    "concern": "delayed milestones",
+    "stage": "6–12 months",
+    "questions": [
+      "Is the child able to sit without support?",
+      "Does the child respond to sounds and faces?",
+      "Is the child able to grasp small objects?"
+    ]
+  },
+  {
+    "concern": "malnutrition",
+    "stage": "1–2 years",
+    "questions": [
+      "How many times a day does the child eat solid or semi-solid food?",
+      "Is the child active and alert throughout the day?",
+      "Have there been any recent episodes of diarrhea?"
+    ]
+  },
+  {
+    "concern": "poor weight gain",
+    "stage": "6–12 months",
+    "questions": [
+      "Has the child gained at least 500g in the last month?",
+      "Is the child being breastfed and given complementary foods?",
+      "Has the child been sick in the past two weeks?"
+    ]
+  },
+  {
+    "concern": "gestational diabetes",
+    "stage": "Pregnant",
+    "questions": [
+      "Has the mother been tested for high blood sugar?",
+      "Is she following a balanced and prescribed diet?",
+      "Has the doctor advised any medication or insulin?"
+    ]
+  },
+  {
+    "concern": "insufficient breastfeeding",
+    "stage": "0–6 months",
+    "questions": [
+      "Is the child being breastfed at least 8 times a day?",
+      "Is the mother experiencing breast pain or discomfort?",
+      "Is the baby satisfied after feeding?"
+    ]
+  },
+  {
+    "concern": "preterm birth risk",
+    "stage": "Pregnant",
+    "questions": [
+      "Has the mother had any bleeding or cramping recently?",
+      "Has she experienced any premature labor signs in past pregnancies?",
+      "Is she getting regular antenatal checkups?"
+    ]
+  },
+  {
+    "concern": "vitamin deficiency",
+    "stage": "1–2 years",
+    "questions": [
+      "Is the child receiving Vitamin A supplements regularly?",
+      "Are there signs of poor night vision or frequent illness?",
+      "Does the child's diet include fruits and vegetables?"
+    ]
+  }
+]
